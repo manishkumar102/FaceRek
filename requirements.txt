@@ -1,0 +1,11 @@
+Flask
+WTForms
+SQLAlchemy
+bcrypt
+requests
+flask-heroku
+gunicorn
+cmake
+dlib
+face_recognition
+opencv-python
